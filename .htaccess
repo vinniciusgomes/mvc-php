@@ -2,6 +2,7 @@
 # # Configurações do MVC                                               #
 # ######################################################################
 
+
 # Liga a possibilidade de redirecionar
 RewriteEngine On
 
