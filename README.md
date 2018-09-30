@@ -122,4 +122,4 @@ Todos os arquivos que estão disponíveis nesse repositório estão comentados p
 ## Licença
 
 
-Este repositório está licenciado sob o MIT License - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
+Este repositório está licenciado sob o MIT License - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
