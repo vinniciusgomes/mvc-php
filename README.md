@@ -1,5 +1,7 @@
 # MVC - Model-view-controller
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/vinniciusgomes/mvc-php?branch=master)](https://bettercodehub.com/)
+
 Model-view-controller (MVC), is a software architecture standard (not to be confused with a design pattern) that separates the representation of information from user interaction with it. The model consists of application data, business rules, logic, and functions. A view can be any output representation of the data, such as a table or a diagram. You can have multiple views of the same data, such as a bar chart for management and a tabular view for counters. The controller mediates the input, converting it into commands for the model or view. The core ideas behind MVC are code reuse and concept separation.
 
 
